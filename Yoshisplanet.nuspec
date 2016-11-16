@@ -3,7 +3,7 @@
   <metadata>
     <!-- Required elements-->
     <id>YoshisPlanet</id>
-    <version>$version</version>
+    <version>%MAJOR%.%MINOR%.%build.counter%</version>
     <description>Yoshis Planet Deployment</description>
     <authors>Mario</authors>
     <!-- Optional elements -->
