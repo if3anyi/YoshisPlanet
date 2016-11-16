@@ -3,7 +3,7 @@
   <metadata>
     <!-- Required elements-->
     <id>YoshisPlanet</id>
-    <version>%MAJOR%.%MINOR%.%build.counter%</version>
+    <version>2016.11.1</version>
     <description>Yoshis Planet Deployment</description>
     <authors>Mario</authors>
     <!-- Optional elements -->
