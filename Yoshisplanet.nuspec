@@ -10,6 +10,6 @@
     <!-- ... -->
   </metadata>
   <files>
-    <file src="**" exclude="**\.git, .gitignore" />
+    <file src="**" exclude="**\.git" />
   </files>
 </package>
